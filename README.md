@@ -8,10 +8,18 @@
 # OBJECT
 This analysis covers sales transaction data for a retail business.
 
-# Key Entities Analyzed:
+## Key Entities Analyzed:
 
 • Customers: Individual buyers making purchases
+
 • Regions: Geographic territories (East, North, South, West)
+
 • Products: Items sold (Backpack, Chair, Charger, Desk Lamp, Notebook, Pen Set, USB Drive)
+
 • Transactions: Individual sales records with date, quantity, and pricing
+
+
+
+<img width="561" height="601" alt="image" src="https://github.com/user-attachments/assets/45db8bb3-553d-4909-90de-c654b1ed750b" />
+
 
